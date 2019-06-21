@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+div {
+  align-content: center;
+  margin: 10px;
+}
+
+input {
+  margin: 10px;
+}
+
+label {
+  margin-right: -85px;
+}
