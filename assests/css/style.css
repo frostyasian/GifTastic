@@ -13,5 +13,9 @@ input {
 }
 
 label {
-  margin-right: -85px;
+  margin-right: -130px;
+}
+
+p {
+  color: white;
 }
